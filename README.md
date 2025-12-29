@@ -4,6 +4,7 @@ I'm a Software Engineer interested in Python, Functional Programming, Problem So
 
 My books:
 - [Django Architecture Patterns](https://www.amazon.com/dp/B0GCHP1188)
+- [Django QuerySet Performance](https://www.amazon.com/dp/B0GCHD2QZR)
 
 My packages:
 - [ensures](https://github.com/brunodantas/ensures)
