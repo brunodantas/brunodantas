@@ -3,8 +3,9 @@
 I'm a Software Engineer interested in Python, Functional Programming, Problem Solving.
 
 My books:
-- [Django Architecture Patterns](https://www.amazon.com/dp/B0GCHP1188)
+- [Python Free Threading](https://www.amazon.com/Python-Free-Threading-GIL-Less-Programming-ebook/dp/B0GF8VMDV8)
 - [Django QuerySet Performance](https://www.amazon.com/dp/B0GCHD2QZR)
+- [Django Architecture Patterns](https://www.amazon.com/dp/B0GCHP1188)
 
 My packages:
 - [ensures](https://github.com/brunodantas/ensures)
