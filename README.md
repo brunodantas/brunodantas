@@ -8,6 +8,7 @@ My books:
 - [Django Architecture Patterns](https://www.amazon.com/dp/B0GCHP1188)
 
 My packages:
+- [django-returns](https://brunodantas.github.io/django-returns)
 - [ensures](https://github.com/brunodantas/ensures)
 
 I'm also sharing what I've learned at [brunodantas.github.io](https://brunodantas.github.io)
